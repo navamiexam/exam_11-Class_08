@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<presentation availableOffline="1" guid="F6F852B2-A24C-4B91-A835-7F16BE36A486" version="0">
+	<info>
+		<title>Exam 11 Class 8</title>
+		<description/>
+	</info>
+	<files index="id22" thumbnail="id18" totalSize="2352443">
+		<file id="id0">data/apple-touch-icon.png</file>
+		<file id="id1">data/browsersupport.js</file>
+		<file id="id2">data/favicon.ico</file>
+		<file id="id3">data/fonts/fnt0.woff</file>
+		<file id="id4">data/fonts/fnt1.woff</file>
+		<file id="id5">data/fonts/fnt2.woff</file>
+		<file id="id6">data/fonts/fnt3.woff</file>
+		<file id="id7">data/fonts/fnt4.woff</file>
+		<file id="id8">data/html5-unsupported.html</file>
+		<file id="id9">data/html5.png</file>
+		<file id="id10">data/images/img-136b5013a83ea51f685306c57f02df39b37ab5c5.png</file>
+		<file id="id11">data/images/img-243592e8a4b35791014260c7f97a963feba5314d.png</file>
+		<file id="id12">data/images/img-3707189f5448fb7e282cfacfcc26d5acba9d879c.png</file>
+		<file id="id13">data/images/img-a25832719890acd701d6b3ada568a9a4378ab165.jpg</file>
+		<file id="id14">data/images/img-ae30461d4403c73cad33c88e887a363a50ab087c.png</file>
+		<file id="id15">data/images/img-e327b6d033e7593ab0e143452bcf9cc6a34ef3db.png</file>
+		<file id="id16">data/ismplayer/app_store2x.png</file>
+		<file id="id17">data/ismplayer/play.svg</file>
+		<file id="id18">data/ismplayer/preview.png</file>
+		<file id="id19">data/ismplayer/style.css</file>
+		<file id="id20">data/ismplayer/style_mini.css</file>
+		<file id="id21">data/player.js</file>
+		<file id="id22">index.html</file>
+		<file id="id23">ismplayer.html</file>
+		<file id="id24">preview.png</file>
+	</files>
+</presentation>
+
